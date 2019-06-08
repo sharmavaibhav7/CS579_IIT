@@ -21,3 +21,5 @@ E.g., for me this would be:
   - **Note:** This step will not work until I have setup your private repository. This usually happens by the second week of the semester (and this is why I need you to complete the course survey).
 
 See <https://github.com/iit-cs579/assignments> for instructions on submitting assignments.
+
+END
